@@ -1,0 +1,13 @@
+# Versiones de la corrida del artículo en Colab (Python 3.13).
+# scikit-learn tiene que ser 1.6.1: con otra versión cambia la partición train/test.
+scikit-learn==1.6.1
+xgboost==3.4.1
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.16.3
+joblib
+google-genai
+pydantic
+matplotlib
+seaborn
+openpyxl
